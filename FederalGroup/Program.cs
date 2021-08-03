@@ -6,7 +6,7 @@ namespace FederalGroup
     {
         static void Main(string[] args)
         {
-
+            
             bool _leave = false;
             Console.WriteLine("Please choose from below: \n" + "1 for New String \n" + "2 for Digit Reiteration");
 
